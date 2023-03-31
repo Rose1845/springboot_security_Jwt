@@ -1,6 +1,6 @@
 # springboot_security_Jwt
 
-#### setup your application.yml with these 
+#### set up your application.yml with these 
 `
 spring:
 
@@ -25,5 +25,7 @@ spring:
         format_sql: true
       database: postgresql
       database-platform: org.hibernate.dialect.PostgreSQLDialect
-
 `
+### running on localhost:8080
+### swagger 
+[http://localhost:8080/swagger-ui/index.html]
