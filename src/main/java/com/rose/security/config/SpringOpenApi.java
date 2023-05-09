@@ -13,7 +13,7 @@ public class SpringOpenApi {
                 new io.swagger.v3.oas.models.info
                         .Info()
                         .title("security")
-                        .description("API to manage law firm on cases,appointments,clisnts and track cases")
+                        .description("API to reister and login ")
                         .version("1.0.0")
 //                        .contact()
         );
